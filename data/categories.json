@@ -1,0 +1,18 @@
+[
+  { "id": "todos", "nome": "Todos", "icone": "LayoutGrid" },
+  { "id": "Websites", "nome": "Websites", "icone": "Globe" },
+  { "id": "Portfólios", "nome": "Portfólios", "icone": "User" },
+  { "id": "Landing Pages", "nome": "Landing Pages", "icone": "Sparkles" },
+  { "id": "Lojas Virtuais", "nome": "Lojas Virtuais", "icone": "ShoppingBag" },
+  { "id": "Plataformas Educacionais", "nome": "Plataformas Educacionais", "icone": "GraduationCap" },
+  { "id": "Sistemas Financeiros", "nome": "Sistemas Financeiros", "icone": "DollarSign" },
+  { "id": "Aplicações Web", "nome": "Aplicações Web", "icone": "Code2" },
+  { "id": "Utilitários", "nome": "Utilitários", "icone": "Wrench" },
+  { "id": "Inteligência Artificial", "nome": "Inteligência Artificial", "icone": "Bot" },
+  { "id": "Dashboards", "nome": "Dashboards", "icone": "BarChart3" },
+  { "id": "Projetos Acadêmicos", "nome": "Projetos Acadêmicos", "icone": "BookOpen" },
+  { "id": "Aplicativos", "nome": "Aplicativos", "icone": "Smartphone" },
+  { "id": "Automações", "nome": "Automações", "icone": "Zap" },
+  { "id": "Jogos", "nome": "Jogos", "icone": "Gamepad2" },
+  { "id": "Projetos Diversos", "nome": "Projetos Diversos", "icone": "Layers" }
+]

@@ -1,1 +1,35 @@
-
+[
+  {
+    "id": "post-1",
+    "titulo": "Arquiteturas Serverless para Sistemas Corporativos de Alta Escala em 2026",
+    "resumo": "Como estruturar microsserviços rápidos, custo-eficientes e resilientes usando Node.js, Vercel, Cloud Run e bancos gerenciados.",
+    "categoria": "Arquitetura Web",
+    "data": "18 de Julho, 2026",
+    "tempoLeitura": "6 min",
+    "imagem": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Node.js", "Serverless", "Cloud Run", "Architecture"],
+    "conteudo": "No cenário do desenvolvimento moderno em 2026, criar aplicações empresariais sem custos fixos desnecessários tornou-se o padrão. Neste artigo, exploramos padrões práticos para orquestração de APIs, caching e estratégias de fallback..."
+  },
+  {
+    "id": "post-2",
+    "titulo": "Integrando LLMs Generativos (Gemini & OpenAI) em Aplicações React",
+    "resumo": "Guia prático para criar agentes de IA com streaming de respostas, chamadas de funções e privacidade de chaves de API.",
+    "categoria": "Inteligência Artificial",
+    "data": "10 de Junho, 2026",
+    "tempoLeitura": "8 min",
+    "imagem": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Gemini API", "React", "AI", "TypeScript"],
+    "conteudo": "Adicionar Inteligência Artificial ao seu produto não significa apenas colocar uma barra de chat. Veja como utilizar grounding, chamadas de funções (function calling) e streaming em tempo real via Express e React..."
+  },
+  {
+    "id": "post-3",
+    "titulo": "Como Transformar seu Portfólio em um Software Marketplace de Alta Conversão",
+    "resumo": "A psicologia por trás da apresentação de projetos como produtos prontos para uso e o impacto direto na atração de clientes.",
+    "categoria": "UX/UI & Business",
+    "data": "25 de Maio, 2026",
+    "tempoLeitura": "5 min",
+    "imagem": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Marketplace", "UX Design", "Product Strategy"],
+    "conteudo": "Quando um cliente em potencial navega pelo seu portfólio, ele busca soluções tangíveis para problemas reais. Tratar cada sistema como um produto acabado aumenta drasticamente a confiança e a percepção de valor..."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ano": "2024 - 2026",
+    "titulo": "Graduação em Ciência de Dados",
+    "instituicao": "UNINTER (Centro Universitário Internacional)",
+    "descricao": "Formação superior com foco em Estatística Aplicada, Machine Learning, Visão Computacional, Processamento de Linguagem Natural, Big Data, Redes Neurais e Computação em Nuvem.",
+    "destaques": ["Média 10.0 em Pré-Cálculo, Banco de Dados e Algoritmos", "Formação Concluída com Honras", "Projetos práticos de Inteligência Artificial"],
+    "tipo": "academico"
+  },
+  {
+    "ano": "2022 - Presente",
+    "titulo": "Desenvolvedor Full Stack & Especialista em IA / Automações",
+    "instituicao": "Consultoria & Projetos Corporativos / Software Marketplace",
+    "descricao": "Liderança e arquitetura no desenvolvimento de ecossistemas web, plataformas EAD, e-commerces, sistemas financeiros, dashboards e integração de agentes inteligentes com LLMs.",
+    "destaques": ["Mais de 120 projetos concluídos e entregues", "Atendimento a empresas de diversos setores", "Sistemas com suporte a milhares de requisições"],
+    "tipo": "profissional"
+  },
+  {
+    "ano": "2018 - 2022",
+    "titulo": "Arquiteto de Software & Engenheiro Web",
+    "instituicao": "Projetos Corporativos e Soluções Digitais",
+    "descricao": "Desenvolvimento de APIs de alta performance, microsserviços em Node.js e Python, migração de legados e automações industriais e comerciais.",
+    "destaques": ["Aumento de 400% na eficiência de processos com automação", "Otimização de bancos de dados PostgreSQL e MongoDB"],
+    "tipo": "profissional"
+  },
+  {
+    "ano": "2006 - 2011",
+    "titulo": "Graduação Tecnológica em Análise de Sistemas Web",
+    "instituicao": "FATENE (Faculdade de Tecnologia do Nordeste)",
+    "descricao": "Formação superior presencial focada na construção de arquiteturas web, lógica de programação, segurança na internet, bancos de dados e engenharia de software.",
+    "destaques": ["128 Créditos concluídos", "Fundamentos sólidos de design e hipermídia", "Primeiro grande marco acadêmico na área tecnológica"],
+    "tipo": "academico"
+  }
+]

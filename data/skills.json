@@ -1,0 +1,57 @@
+[
+  {
+    "categoria": "Frontend & Interface",
+    "descricao": "Interfaces reativas de alta fidelidade visual, com arquitetura limpa, componentes modulares e suporte a PWA e SSR.",
+    "tecnologias": [
+      { "nome": "React", "nivel": 98, "icone": "Code", "experiencia": "8+ anos", "destaque": true },
+      { "nome": "Next.js", "nivel": 95, "icone": "Zap", "experiencia": "5+ anos", "destaque": true },
+      { "nome": "TypeScript", "nivel": 96, "icone": "FileCode", "experiencia": "7+ anos", "destaque": true },
+      { "nome": "JavaScript ES2026", "nivel": 99, "icone": "Code2", "experiencia": "10+ anos", "destaque": true },
+      { "nome": "TailwindCSS", "nivel": 98, "icone": "Palette", "experiencia": "6+ anos", "destaque": true },
+      { "nome": "HTML5 / CSS3", "nivel": 99, "icone": "Layout", "experiencia": "10+ anos", "destaque": false },
+      { "nome": "Framer Motion", "nivel": 92, "icone": "Sparkles", "experiencia": "4+ anos", "destaque": false },
+      { "nome": "Three.js", "nivel": 85, "icone": "Box", "experiencia": "3+ anos", "destaque": false }
+    ]
+  },
+  {
+    "categoria": "Backend & APIs",
+    "descricao": "Sistemas distribuídos, microsserviços resilientes, APIs RESTful e GraphQL, com alta disponibilidade e segurança.",
+    "tecnologias": [
+      { "nome": "Node.js", "nivel": 96, "icone": "Server", "experiencia": "8+ anos", "destaque": true },
+      { "nome": "Express", "nivel": 95, "icone": "Cpu", "experiencia": "7+ anos", "destaque": true },
+      { "nome": "Python", "nivel": 94, "icone": "Terminal", "experiencia": "6+ anos", "destaque": true },
+      { "nome": "Java", "nivel": 88, "icone": "Coffee", "experiencia": "5+ anos", "destaque": false },
+      { "nome": "PHP", "nivel": 86, "icone": "FileText", "experiencia": "6+ anos", "destaque": false }
+    ]
+  },
+  {
+    "categoria": "Inteligência Artificial & Ciência de Dados",
+    "descricao": "Processamento de linguagem natural, visão computacional, aprendizado de máquina e integração de LLMs para soluções corporativas.",
+    "tecnologias": [
+      { "nome": "Gemini API", "nivel": 98, "icone": "Bot", "experiencia": "3+ anos", "destaque": true },
+      { "nome": "OpenAI API", "nivel": 96, "icone": "BrainCircuit", "experiencia": "3+ anos", "destaque": true },
+      { "nome": "Claude API", "nivel": 92, "icone": "Sparkle", "experiencia": "2+ anos", "destaque": false },
+      { "nome": "Python Data Science", "nivel": 95, "icone": "Binary", "experiencia": "5+ anos", "destaque": true },
+      { "nome": "Pandas & NumPy", "nivel": 94, "icone": "Table", "experiencia": "5+ anos", "destaque": true },
+      { "nome": "Scikit-Learn", "nivel": 90, "icone": "LineChart", "experiencia": "4+ anos", "destaque": false },
+      { "nome": "TensorFlow", "nivel": 86, "icone": "Network", "experiencia": "3+ anos", "destaque": false },
+      { "nome": "Power BI", "nivel": 92, "icone": "PieChart", "experiencia": "5+ anos", "destaque": true }
+    ]
+  },
+  {
+    "categoria": "Bancos de Dados & Cloud",
+    "descricao": "Modelagem relacional e NoSQL, otimização de queries, persistência em nuvem e infraestrutura escalável.",
+    "tecnologias": [
+      { "nome": "PostgreSQL", "nivel": 94, "icone": "Database", "experiencia": "7+ anos", "destaque": true },
+      { "nome": "MySQL", "nivel": 95, "icone": "HardDrive", "experiencia": "8+ anos", "destaque": false },
+      { "nome": "MongoDB", "nivel": 92, "icone": "Layers", "experiencia": "6+ anos", "destaque": true },
+      { "nome": "Firebase", "nivel": 95, "icone": "Flame", "experiencia": "6+ anos", "destaque": true },
+      { "nome": "Supabase", "nivel": 94, "icone": "Zap", "experiencia": "4+ anos", "destaque": true },
+      { "nome": "Docker", "nivel": 90, "icone": "Container", "experiencia": "5+ anos", "destaque": false },
+      { "nome": "AWS", "nivel": 88, "icone": "Cloud", "experiencia": "4+ anos", "destaque": false },
+      { "nome": "Google Cloud (GCP)", "nivel": 92, "icone": "CloudSun", "experiencia": "5+ anos", "destaque": true },
+      { "nome": "Azure", "nivel": 85, "icone": "ShieldCheck", "experiencia": "3+ anos", "destaque": false },
+      { "nome": "Git / GitHub / Linux", "nivel": 98, "icone": "GitBranch", "experiencia": "10+ anos", "destaque": true }
+    ]
+  }
+]

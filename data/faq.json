@@ -1,0 +1,22 @@
+[
+  {
+    "pergunta": "Como funciona o processo de contratação e desenvolvimento de um projeto?",
+    "resposta": "O processo é dividido em 4 etapas claras: 1. Alinhamento de escopo e levantamento de requisitos; 2. Proposta comercial com prazo e investimento flexível; 3. Desenvolvimento agil com entregas semanais e visualização ao vivo em ambiente de testes; 4. Homologação, treinamento e publicação do software."
+  },
+  {
+    "pergunta": "Qual é o tempo médio para a entrega de uma aplicação ou sistema customizado?",
+    "resposta": "Projetos institucionais e landing pages costumam ser entregues entre 1 e 2 semanas. Sistemas corporativos, e-commerces e plataformas com banco de dados e inteligência artificial variam de 3 semanas a 2 meses, dependendo da complexidade do escopo."
+  },
+  {
+    "pergunta": "É possível adicionar novas funcionalidades a um projeto já existente?",
+    "resposta": "Sim! Pedro realiza auditoria em código existente, refatoração, atualização de versões, adição de módulos de inteligência artificial, otimização de banco de dados e criação de APIs de integração."
+  },
+  {
+    "pergunta": "Como funcionam as opções de hospedagem, domínio e suporte pós-entrega?",
+    "resposta": "Pedro orienta a contratação e configuração dos servidores (Vercel, AWS, Google Cloud, Heroku, Hostinger ou VPS), domínios personalisados, SSL gratuito e oferece pacotes de suporte técnico e manutenção preventiva pós-lançamento."
+  },
+  {
+    "pergunta": "Posso solicitar orçamento diretamente pelo WhatsApp?",
+    "resposta": "Com certeza! Você pode clicar no botão 'Solicitar Orçamento' ou no ícone do WhatsApp no site para iniciar uma conversa direta com Pedro pelo número +55 (85) 98900-2536."
+  }
+]

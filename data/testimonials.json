@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "nome": "Marcos Andrade",
+    "cargo": "CTO & Co-fundador",
+    "empresa": "EdTech Soluções",
+    "foto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "avaliacao": 5,
+    "depoimento": "O Pedro entregou nossa plataforma de cursos com um padrão estético e técnico comparável aos maiores players internacionais. Atendimento impecável e código extremamente limpo."
+  },
+  {
+    "id": "2",
+    "nome": "Camila Vasconcelos",
+    "cargo": "Diretora de Operações",
+    "empresa": "GlipeArte Eventos",
+    "foto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80",
+    "avaliacao": 5,
+    "depoimento": "Nosso e-commerce de aluguel Pegue e Monte triplicou as conversões após o trabalho do Pedro. O sistema de agendamento em tempo real eliminou conflitos de estoque completamente."
+  },
+  {
+    "id": "3",
+    "nome": "Dr. Fernando Siqueira",
+    "cargo": "Head de Inovação",
+    "empresa": "Fintech Imobiliária",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "avaliacao": 5,
+    "depoimento": "O simulador de financiamento que o Pedro desenvolveu superou as expectativas da nossa diretoria. Precisão nos cálculos de amortização e carregamento instantâneo."
+  },
+  {
+    "id": "4",
+    "nome": "Juliana Martins",
+    "cargo": "Gerente de Produto",
+    "empresa": "DataPulse Analytics",
+    "foto": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80",
+    "avaliacao": 5,
+    "depoimento": "Trabalhar com o Pedro na integração dos modelos de machine learning foi surpreendente. Ele uniu ciência de dados pesada a uma interface moderna e acessível."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "projetos",
+    "rotulo": "Projetos Concluídos",
+    "valor": 120,
+    "sufixo": "+",
+    "icone": "Briefcase",
+    "descricao": "Sistemas corporativos, web apps, jogos e e-commerces no ar."
+  },
+  {
+    "id": "clientes",
+    "rotulo": "Clientes & Parceiros",
+    "valor": 50,
+    "sufixo": "+",
+    "icone": "Users",
+    "descricao": "Empresas, startups e instituições atendidas com excelência."
+  },
+  {
+    "id": "linhas",
+    "rotulo": "Linhas de Código",
+    "valor": 500,
+    "sufixo": "k+",
+    "icone": "Code2",
+    "descricao": "Código limpo, documentado, modular e livre de dívidas técnicas."
+  },
+  {
+    "id": "horas",
+    "rotulo": "Horas de Programação",
+    "valor": 10000,
+    "sufixo": "+",
+    "icone": "Clock",
+    "descricao": "Dedicação contínua ao aperfeiçoamento e arquitetura de software."
+  },
+  {
+    "id": "tecnologias",
+    "rotulo": "Tecnologias Dominadas",
+    "valor": 30,
+    "sufixo": "+",
+    "icone": "Cpu",
+    "descricao": "Linguagens, frameworks, bancos de dados, cloud e IA."
+  },
+  {
+    "id": "commits",
+    "rotulo": "Commits no GitHub",
+    "valor": 3500,
+    "sufixo": "+",
+    "icone": "GitCommit",
+    "descricao": "Histórico ativo em repositórios abertos e corporativos."
+  },
+  {
+    "id": "anos",
+    "rotulo": "Anos de Experiência",
+    "valor": 10,
+    "sufixo": "+",
+    "icone": "Award",
+    "descricao": "Atuação constante desde o ensino superior técnico."
+  }
+]
